@@ -14,7 +14,7 @@ export default function GradientButton({
   return (
     <button
       onClick={onClick}
-      className="inline-flex items-center justify-between w-[359px] h-[66px] px-7 bg-gradient-to-r from-brand-blue to-brand-purple border-none rounded-full cursor-pointer"
+      className="inline-flex items-center justify-between w-[359px] h-[66px] px-7 bg-gradient-to-r from-brand-blue to-brand-purple border-none  cursor-pointer"
     >
       <span className="font-avenir font-semibold text-[20px] leading-[140%] text-brand-white whitespace-nowrap">
         {label}
