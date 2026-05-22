@@ -1,0 +1,13 @@
+.numberStat {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 140%;
+  letter-spacing: 0%;
+  color: #5742E9;
+  width: 10px;
+  height: 10px;
+  display: inline-block;
+  margin: 0;
+}

@@ -1,0 +1,30 @@
+.blackButton {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  width: 370.79px;
+  height: 66.03px;
+  padding: 0 16px;
+  background-color: #000000;
+  border: none;
+   justify-content: space-between;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.label {
+  font-family: 'Avenir Next', 'Avenir', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #ffffff;
+  white-space: nowrap;
+}

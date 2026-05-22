@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand-blue: #3B64FC;
+  --color-brand-purple: #7026D9;
+  --color-brand-violet: #5742E9;
+  --color-brand-section-blue: #4357FF;
+  --color-brand-section-purple: #753DFF;
+  --color-brand-black: #000000;
+  --color-brand-white: #FFFFFF;
+
+  --font-montserrat: 'Montserrat', sans-serif;
+  --font-avenir: 'Avenir Next', 'Avenir', sans-serif;
+}

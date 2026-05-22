@@ -1,0 +1,30 @@
+.gradientButton {
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 359px;
+  height: 66px;
+  padding: 0 28px;
+  background: linear-gradient(90deg, #3B64FC 0%, #7026D9 100%);
+  border: none;
+
+  cursor: pointer;
+  box-sizing: border-box;
+}
+
+.dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #ffffff;
+  flex-shrink: 0;
+}
+
+.label {
+  font-family: 'Avenir Next', 'Avenir', sans-serif;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 140%;
+  color: #ffffff;
+  white-space: nowrap;
+}

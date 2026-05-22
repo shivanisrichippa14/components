@@ -1,0 +1,15 @@
+.sectionHeading {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 15.24px;
+  line-height: 100%;
+  letter-spacing: 23%;
+  width: 269px;
+  height: 19px;
+  background: linear-gradient(90deg, #4357FF 0%, #753DFF 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  margin: 0;
+}

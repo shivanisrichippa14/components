@@ -1,0 +1,8 @@
+.dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+
+  background-color: #5742E9;
+  flex-shrink: 0;
+}
