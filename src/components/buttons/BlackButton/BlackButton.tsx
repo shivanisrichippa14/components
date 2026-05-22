@@ -14,7 +14,7 @@ export default function BlackButton({
   return (
     <button
       onClick={onClick}
-      className="inline-flex items-center justify-between w-[370.79px] h-[66.03px] px-4 bg-brand-black border-none rounded-full cursor-pointer"
+      className="inline-flex items-center justify-between w-[370.79px] h-[66.03px] px-4 bg-brand-black border-nonecursor-pointer"
     >
       <span className="font-avenir font-semibold text-[20px] leading-[140%] text-brand-white whitespace-nowrap">
         {label}
